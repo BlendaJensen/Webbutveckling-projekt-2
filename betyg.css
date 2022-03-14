@@ -1,0 +1,104 @@
+header{
+    background-color: black;
+    display: flex;
+    justify-content: flex-start;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    padding-left: 1%;
+    font-family: Franklin Gothic Medium,Franklin Gothic,ITC Franklin Gothic,Arial,sans-serif; 
+}
+nav{
+    background-color: black;
+    display: flex;
+    justify-content: start;
+    justify-content: flex-end;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    padding-right: 2%;
+    margin-bottom: 1%;
+
+}
+a {
+    text-decoration: none;
+    color: white;
+    font-family: Tahoma,Verdana,Segoe,sans-serif; 
+}
+h1{
+    color: white;
+}
+.navigation{
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 3%;
+    height: 3%;
+    gap: 25%;
+}
+main{
+    background-color: gray;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+span{
+    margin-right: 1%;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+}
+img{
+    border-radius: 2px;
+}
+.bild1{
+    width: 30%;
+}
+.bild2{
+    width: 30%;
+}
+.bild3{
+    width: 30%;
+}
+.vol1{
+    background-color: aliceblue;
+    margin-left: 10%;
+    margin-bottom: 10%;
+    margin-right: 10%;
+    padding: 2%;
+    border-radius: 2px;
+    font-family: Candara,Calibri,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+}
+.vol1{
+    background-color: aliceblue;
+    margin-left: 10%;
+    margin-bottom: 10%;
+    margin-right: 10%;
+    padding: 2%;
+    border-radius: 2px;
+    font-family: Candara,Calibri,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+}
+.stjärna1{
+    display: flex;
+    justify-content: end;
+}
+.vol2{
+    background-color: aliceblue;
+    margin-left: 10%;
+    margin-bottom: 10%;
+    margin-right: 10%;
+    padding: 2%;
+    border-radius: 2px;
+    font-family: Candara,Calibri,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+}
+.stjärna2{
+    display: flex;
+    justify-content: end;
+}
+.vol3{
+    background-color: aliceblue;
+    margin-left: 10%;
+    margin-bottom: 10%;
+    margin-right: 10%;
+    padding: 2%;
+    border-radius: 2px;
+    font-family: Candara,Calibri,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+}
+.stjärna3{
+    display: flex;
+    justify-content: end;
+}
